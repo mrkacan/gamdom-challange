@@ -1,5 +1,12 @@
 # Gamdom Frontend Challenge
 
+Demo: https://gamdom-challange.vercel.app/
+
+## Images From The Project
+
+<img src="https://github.com/mrkacan/gamdom-challange/blob/main/githubAssets/1.png?raw=true" width="49%"> <img src="https://github.com/mrkacan/gamdom-challange/blob/main/githubAssets/2.png?raw=true" width="49%"> <img src="https://github.com/mrkacan/gamdom-challange/blob/main/githubAssets/7.png?raw=true" width="49%"> <img src="https://github.com/mrkacan/gamdom-challange/blob/main/githubAssets/8.png?raw=true" width="49%"> <img src="https://github.com/mrkacan/gamdom-challange/blob/main/githubAssets/3.png?raw=true" width="32%"> <img src="https://github.com/mrkacan/gamdom-challange/blob/main/githubAssets/4.png?raw=true" width="32%"> <img src="https://github.com/mrkacan/gamdom-challange/blob/main/githubAssets/5.png?raw=true" width="32%"> <img src="https://github.com/mrkacan/gamdom-challange/blob/main/githubAssets/6.png?raw=true" width="32%">
+
+
 ## What I have done?
 + Installed & configured prettier.
 + Installed & configured Redux Toolkit.
@@ -15,6 +22,7 @@
 + More well-organized folder structure.
 + Tests can be improved.
 + Add more comments.
++ Can fix: TS issue: (TS2329: Property toBeInTheDocument does not exist on type Assertion<HTMLElement>).
 
 
 ## To Run The Project
