@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "sport": "Soccer",
+    "teams": {
+      "home": {
+        "name": "Team A",
+        "odds": 1.5,
+        "bets": 100
+      },
+      "away": {
+        "name": "Team B",
+        "odds": 2.8,
+        "bets": 80
+      }
+    }
+  },
+  {
+    "id": 2,
+    "sport": "Basketball",
+    "teams": {
+      "home": {
+        "name": "Team C",
+        "odds": 2.0,
+        "bets": 150
+      },
+      "away": {
+        "name": "Team D",
+        "odds": 1.8,
+        "bets": 130
+      }
+    }
+  },
+  {
+    "id": 3,
+    "sport": "Baseball",
+    "teams": {
+      "home": {
+        "name": "Team E",
+        "odds": 1.3,
+        "bets": 90
+      },
+      "away": {
+        "name": "Team F",
+        "odds": 3.0,
+        "bets": 60
+      }
+    }
+  },
+  {
+    "id": 4,
+    "sport": "Tennis",
+    "teams": {
+      "home": {
+        "name": "Player X",
+        "odds": 1.7,
+        "bets": 110
+      },
+      "away": {
+        "name": "Player Y",
+        "odds": 2.2,
+        "bets": 95
+      }
+    }
+  },
+  {
+    "id": 5,
+    "sport": "Basketball",
+    "teams": {
+      "home": {
+        "name": "Team I",
+        "odds": 1.9,
+        "bets": 140
+      },
+      "away": {
+        "name": "Team J",
+        "odds": 2.1,
+        "bets": 120
+      }
+    }
+  },
+  {
+    "id": 6,
+    "sport": "Baseball",
+    "teams": {
+      "home": {
+        "name": "Team K",
+        "odds": 1.4,
+        "bets": 75
+      },
+      "away": {
+        "name": "Team L",
+        "odds": 3.2,
+        "bets": 55
+      }
+    }
+  },
+  {
+    "id": 7,
+    "sport": "Soccer",
+    "teams": {
+      "home": {
+        "name": "Team M",
+        "odds": 1.6,
+        "bets": 95
+      },
+      "away": {
+        "name": "Team N",
+        "odds": 2.5,
+        "bets": 105
+      }
+    }
+  },
+  {
+    "id": 8,
+    "sport": "Basketball",
+    "teams": {
+      "home": {
+        "name": "Team O",
+        "odds": 2.3,
+        "bets": 125
+      },
+      "away": {
+        "name": "Team P",
+        "odds": 1.7,
+        "bets": 85
+      }
+    }
+  },
+  {
+    "id": 9,
+    "sport": "Baseball",
+    "teams": {
+      "home": {
+        "name": "Team Q",
+        "odds": 1.8,
+        "bets": 110
+      },
+      "away": {
+        "name": "Team R",
+        "odds": 2.7,
+        "bets": 100
+      }
+    }
+  },
+  {
+    "id": 10,
+    "sport": "Soccer",
+    "teams": {
+      "home": {
+        "name": "Team S",
+        "odds": 2.1,
+        "bets": 130
+      },
+      "away": {
+        "name": "Team T",
+        "odds": 1.9,
+        "bets": 115
+      }
+    }
+  },
+  {
+    "id": 11,
+    "sport": "Soccer",
+    "teams": {
+      "home": {
+        "name": "Team U",
+        "odds": 1.7,
+        "bets": 105
+      },
+      "away": {
+        "name": "Team V",
+        "odds": 2.0,
+        "bets": 90
+      }
+    }
+  },
+  {
+    "id": 12,
+    "sport": "Basketball",
+    "teams": {
+      "home": {
+        "name": "Team W",
+        "odds": 2.2,
+        "bets": 120
+      },
+      "away": {
+        "name": "Team X",
+        "odds": 1.6,
+        "bets": 70
+      }
+    }
+  },
+  {
+    "id": 13,
+    "sport": "Baseball",
+    "teams": {
+      "home": {
+        "name": "Team Y",
+        "odds": 1.9,
+        "bets": 110
+      },
+      "away": {
+        "name": "Team Z",
+        "odds": 2.3,
+        "bets": 95
+      }
+    }
+  },
+  {
+    "id": 14,
+    "sport": "Soccer",
+    "teams": {
+      "home": {
+        "name": "Team AA",
+        "odds": 1.8,
+        "bets": 115
+      },
+      "away": {
+        "name": "Team BB",
+        "odds": 2.1,
+        "bets": 100
+      }
+    }
+  },
+  {
+    "id": 15,
+    "sport": "Basketball",
+    "teams": {
+      "home": {
+        "name": "Team CC",
+        "odds": 1.5,
+        "bets": 80
+      },
+      "away": {
+        "name": "Team DD",
+        "odds": 2.5,
+        "bets": 125
+      }
+    }
+  },
+  {
+    "id": 16,
+    "sport": "Baseball",
+    "teams": {
+      "home": {
+        "name": "Team EE",
+        "odds": 2.7,
+        "bets": 100
+      },
+      "away": {
+        "name": "Team FF",
+        "odds": 1.8,
+        "bets": 90
+      }
+    }
+  },
+  {
+    "id": 17,
+    "sport": "Soccer",
+    "teams": {
+      "home": {
+        "name": "Team GG",
+        "odds": 1.6,
+        "bets": 95
+      },
+      "away": {
+        "name": "Team HH",
+        "odds": 2.4,
+        "bets": 110
+      }
+    }
+  },
+  {
+    "id": 18,
+    "sport": "Basketball",
+    "teams": {
+      "home": {
+        "name": "Team II",
+        "odds": 2.3,
+        "bets": 105
+      },
+      "away": {
+        "name": "Team JJ",
+        "odds": 1.7,
+        "bets": 85
+      }
+    }
+  },
+  {
+    "id": 19,
+    "sport": "Baseball",
+    "teams": {
+      "home": {
+        "name": "Team KK",
+        "odds": 2.0,
+        "bets": 120
+      },
+      "away": {
+        "name": "Team LL",
+        "odds": 2.2,
+        "bets": 115
+      }
+    }
+  },
+  {
+    "id": 20,
+    "sport": "Soccer",
+    "teams": {
+      "home": {
+        "name": "Team MM",
+        "odds": 2.6,
+        "bets": 130
+      },
+      "away": {
+        "name": "Team NN",
+        "odds": 1.6,
+        "bets": 75
+      }
+    }
+  }
+]
