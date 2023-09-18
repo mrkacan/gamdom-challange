@@ -70,6 +70,7 @@ const SportsBetting: React.FC = () => {
           <BetSlip.HeaderText>Slips</BetSlip.HeaderText>
           {isSlipsLoading ? <BetSlip.Loader /> : null}
           {isSlipsError ? <BetSlip.Error>Error</BetSlip.Error> : null}
+          {slips.length === 0 ? <BetSlip.NoData>No data</BetSlip.NoData> : null}
           {slips.map((item) => {
             return (
               <BetSlip.Wrapper key={`slips-${item.betId}-${item.date}`}>

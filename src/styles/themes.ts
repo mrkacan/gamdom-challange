@@ -50,6 +50,9 @@ export const lightTheme = {
     background: "#f0f0f0",
     title: "#232939",
   },
+  slips: {
+    text: "#232939",
+  },
 };
 
 export const darkTheme = {
@@ -103,6 +106,9 @@ export const darkTheme = {
     closeIcon: "#ffffff",
     background: "#3c4358",
     title: "#ffffff",
+  },
+  slips: {
+    text: "#ffffff",
   },
 };
 

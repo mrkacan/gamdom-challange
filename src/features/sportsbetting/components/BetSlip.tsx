@@ -46,4 +46,16 @@ export const BetSlip = {
     text-align: center;
     font-weight: 700;
   `,
+  NoData: styled.div`
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    padding-top: 50px;
+    color: ${(props) => props.theme.slips.text};
+    text-align: center;
+    font-weight: 700;
+  `,
 };
