@@ -5,7 +5,7 @@
     "lib": ["ES2020", "dom", "dom.iterable"],
     "module": "ESNext",
     "skipLibCheck": true,
-    "@typescript-eslint/ban-ts-comment": "off",
+    "@typescript-eslint/ban-ts-ignore": "off",
 
     /* Bundler mode */
     "moduleResolution": "bundler",
