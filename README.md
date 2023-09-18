@@ -17,16 +17,16 @@
 + Add more comments.
 
 
-# To Run The Project
+## To Run The Project
   - cd gamdom-test
   - yarn
   - yarn dev 
 
-# To Test The Project
+## To Test The Project
   - cd gamdom-test
   - yarn test
 
-# Checklist
+## Checklist
 
 Requirements:
 - [x] 1.Dashboard Design
