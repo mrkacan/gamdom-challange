@@ -17,6 +17,7 @@ Demo: https://gamdom-challange.vercel.app/
 + Installed vitest and added basic unit tests for reducers, selectors, components.
 + Created a simple responsive layout.
 + Created a simple modal and used portal to render it.
++ Deployed to Vercel.
 
 ## What can be improved?
 + More well-organized folder structure.
