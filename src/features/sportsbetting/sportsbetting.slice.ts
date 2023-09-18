@@ -24,9 +24,6 @@ export const SportsBettingState = createSlice({
     setCurrentCategory: (state, action: PayloadAction<string>) => {
       state.currentCategory = action.payload;
     },
-    clearSlipsStatus: (state) => {
-      state.slipsStatus = "idle";
-    },
   },
   extraReducers: (builder) => {
     builder
