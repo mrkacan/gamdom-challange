@@ -22,6 +22,7 @@ Demo: https://gamdom-challange.vercel.app/
 ## What can be improved?
 + More well-organized folder structure.
 + Tests can be improved.
++ Can be used strict version of packages.
 + Add more comments.
 + Can fix: TS issue: (TS2329: Property toBeInTheDocument does not exist on type Assertion<HTMLElement>).
 
